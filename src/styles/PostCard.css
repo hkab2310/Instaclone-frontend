@@ -1,0 +1,62 @@
+.post-card {
+    margin: 25px 0;
+    border: 1px solid lightgray;
+}
+
+.post-card-topSec{
+    padding: 4px 5px;
+}
+.topSec-left {
+    display: inline-block;
+    vertical-align:middle;
+}
+
+.topSec-left > .name {
+    font-weight: bold;
+    font-size: 1em;
+    margin: 0.2em 0;
+}
+
+.topSec-left > .location {
+    font-size: 0.8em;
+    margin: 0.1em 0;
+    color: lightgray;
+}
+
+.topSec-right {
+    display: inline-block;
+    margin-left: 80%;
+}
+
+.topSec-right > h5{
+    margin: 0.3rem 0;
+}
+
+.post-card-botSec{
+    padding:3px 5px;
+}
+
+.bottom-img{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.bottom-date{
+    display: inline-block;
+    font-size: 0.8em;
+    margin: 0.2rem 0;
+    margin-left: 65%;
+}
+
+.bottom-likes{
+    font-size: 0.7em;
+    margin: 0.2rem 0;
+    color: #999;
+    margin-left: 3px;
+}
+
+.bottom-header{
+    font-size: 1em;
+    margin: 0.5rem 0;
+    margin-left: 3px;
+}

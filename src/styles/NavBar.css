@@ -1,0 +1,23 @@
+.nav-container {
+    border-bottom: 1px solid #008000;
+    padding: 0 5%;
+    padding-top: 2px ;
+    padding-bottom: 2px;
+    
+}
+
+.nav-container .heading{
+    display: inline-block;
+    color: darkgreen;
+    margin: 5px ;
+    font-size: 1.4em;
+}
+
+.heading .nav-left-img{
+    float: left;
+    margin: 0 2px 0 0;
+}
+
+.nav-container .nav-right-img{
+    margin-left: 80%;
+}

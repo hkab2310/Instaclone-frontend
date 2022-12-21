@@ -1,0 +1,40 @@
+#main-con{
+    display: flex;
+    flex-direction: row;
+}
+
+#img-con{
+    width:50vw;
+    height: 100vh;
+}
+
+#img-con > img{
+    width: 100%;
+    height: 100%;
+}
+
+#btn-cont{
+    width: 50vw;
+    padding: 0 auto;
+    padding-top: 40vh;
+    text-align: center;   
+}
+
+#btn-cont>h2{
+    font-size: 2em;
+    color: green;
+    font-weight: 400;
+}
+
+#btn-cont>button{
+    border: 1px solid lightgreen;
+    background-color: white;
+    border-radius: 20px;
+}
+
+#btn-cont>button>a{
+    font-size: 1.2em;
+    color: green;
+    margin: 0.5em 0.5em;
+
+}
